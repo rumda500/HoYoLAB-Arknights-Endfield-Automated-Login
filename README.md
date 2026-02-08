@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Automated Login Bonus Collection (HoYoLAB & Arknights Endfield)
 
 このスクリプトは、無料で利用できる**Google Apps Script (GAS)** を利用して、HoYoLAB（原神、崩壊：スターレイル、ゼンレスゾーンゼロ、崩壊3rd）およびアークナイツ：エンドフィールドのサインイン（ログインボーナス受け取り）を自動化するためのツールです。
